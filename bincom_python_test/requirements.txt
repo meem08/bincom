@@ -1,0 +1,3 @@
+psycopg[binary]
+
+python -m pip install -r requirements.txt
